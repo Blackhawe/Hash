@@ -11,7 +11,8 @@
 <body>
     <form class="form" method="POST">
         <h3>Cifrado hash SHA1</h3>
-        <h4>Gilberto Yosemir González Méndez</h4>
+	<h4>Gilberto Yosemir González Méndez</h4>
+	<h5>Cambios realizados</h5>
         <p type="Cifrar texto:"><input placeholder="Escriba aquí.." type="text" name="cifrar" required></input></p>
         <p type="Texto cifrado:"></p>
         <p id="cifrado">
